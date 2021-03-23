@@ -112,7 +112,7 @@ Button language for two-letter and four-letter language codes.
 
 | Type | Values | Default |
 |---|---|---|
-| String | `ar` `cs` `de` `es` `fi` `fr` `id` `it` `ja` `nl` `pt_BR` `ru` `zh_CN` `zh_TW` | `auto` |
+| String | `ar` `cs` `de` `es` `et` `fi` `fr` `id` `it` `ja` `nl` `pt_BR` `ru` `zh_CN` `zh_TW` | `auto` |
 
 ### `container-class`
 
